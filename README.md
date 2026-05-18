@@ -52,7 +52,7 @@ También disfruto aprender de forma autodidacta y transformar ideas en proyectos
 
 ## Proyectos destacados
 
-### 🔐 API Backend Multiempresa
+### API Backend Multiempresa
 API REST desarrollada con Node.js, Express, Prisma y SQLite orientada a sistemas SaaS para PYMEs.
 
 Características:
@@ -82,7 +82,7 @@ https://dashboard-react-ts-alpha.vercel.app/
 
 ---
 
-### 🌐 Landing Page Servicios MYG
+### Landing Page Servicios MYG
 Proyecto trabajado sobre cPanel/Sitejet aplicando personalización visual, diseño responsive y mejoras UX/UI.
 
 🔗 Sitio:
@@ -101,10 +101,10 @@ https://www.serviciosmyg.cl/
 ---
 
 ## Contacto
-💼 LinkedIn: www.linkedin.com/in/
+LinkedIn: www.linkedin.com/in/
 yesenia-nicole-fernandois-badilla-70a96b3a9
 
-🐙 GitHub: https://github.com/Iamwaves07
+GitHub: https://github.com/Iamwaves07
 Here are some ideas to get you started:
 
 
